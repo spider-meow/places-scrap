@@ -1,7 +1,3 @@
-.env
+reservebar_hits.csv
 __pycache__/
-*.pyc
 .venv/
-venv/
-output/
-processed.csv
